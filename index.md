@@ -1,6 +1,6 @@
 # Ricardo Flores
 
-## Welcome to GitHub Pages
+## Bienvenido!
 
 You can use the [editor on GitHub](https://github.com/Riicardo10/riicardo10.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
